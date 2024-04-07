@@ -104,7 +104,7 @@ const Footer = () => {
 
                 {/* social links */}
                 <div className="flex items-center gap-3 mt-6">
-                  <a href="#">
+                  <a href="https://www.instagram.com/_sidharth_manikuttan_/?igsh=b2RrbHl1MjdsYnVu">
                     <FaInstagram className="text-3xl hover:text-primary duration-300" />
                   </a>
                   <a href="https://www.facebook.com/profile.php?id=100075186801273&sk=about">
