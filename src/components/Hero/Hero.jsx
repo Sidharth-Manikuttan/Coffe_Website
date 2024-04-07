@@ -18,7 +18,7 @@ const Hero = () => {
                 <span
                   data-aos="zoom-out"
                   data-aos-delay="300"
-                  class="bg-clip-text text-transparent bg-gradient-to-b from-primary to-primary/90 font-cursive"
+                  class="bg-clip-text text-transparent bg-gradient-to-b from-primary to-primary font-cursive"
                 >
                   Coffee
                 </span>{" "}
@@ -45,7 +45,7 @@ const Hero = () => {
               <div
                 data-aos="fade-right"
                 data-aos-offset="0"
-                className="bg-gradient-to-r from-primary to-secondary p-3 rounded-xl absolute bottom-10 right-10"
+                className="bg-gradient-to-r from-primary to-secondary border-2 border-primary p-3 rounded-xl absolute bottom-10 right-10"
               >
                 <h1 className="text-white">Best Coffee</h1>
               </div>
