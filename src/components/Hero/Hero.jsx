@@ -42,13 +42,6 @@ const Hero = () => {
                 alt="biryani img"
                 className="w-[300px] sm:w-[450px] sm:scale-125 mx-auto spin "
               />
-              <div
-                data-aos="fade-right"
-                data-aos-offset="0"
-                className="bg-gradient-to-r from-primary to-secondary border-2 border-primary p-3 rounded-xl absolute bottom-10 right-10"
-              >
-                <h1 className="text-white">Best Coffee</h1>
-              </div>
             </div>
           </div>
         </div>
